@@ -1,5 +1,5 @@
 #Instructions
-Run:
+
 - python -m venv env
 - source env/bin/activate
 - pip install djangorestframework
