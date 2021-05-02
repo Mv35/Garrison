@@ -8,6 +8,6 @@ Run:
 
 
 To test:
-    - Open a new terminal in the same working directory
-    - Run:
-        - python request.py <path_to_file_to_upload>
+- Open a new terminal in the same working directory
+- Run:
+    - python request.py <path_to_file_to_upload>
